@@ -1,0 +1,13 @@
+.git
+.next
+out
+node_modules
+.responsive-check
+dineflow-profile-image
+github-professional
+motiona-readme
+.openai
+req-form.png
+req-form2.png
+.env*
+!.env.local.example
