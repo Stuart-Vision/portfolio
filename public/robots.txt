@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://stuart-dev.netlify.app/sitemap.xml
+Sitemap: https://stuart-vision-portfolio.swoony-otter-4640.chatgpt.site/sitemap.xml

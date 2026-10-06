@@ -8,7 +8,7 @@ export const METADATA = {
   title: "Shan Sai || Stuart.dev",
   description:
     "Shan Sai is a Software Engineer and Web Developer building production-grade web applications — multi-vendor marketplaces, restaurant POS systems and property platforms — with Next.js, React, TypeScript, Laravel and MongoDB.",
-  siteUrl: "https://stuart-dev.netlify.app/", // TODO: your real deployed URL
+  siteUrl: "https://stuart-vision-portfolio.swoony-otter-4640.chatgpt.site/", // TODO: your real deployed URL
   twitterHandle: "@stuartdev", // TODO: your real handle, or remove
   keywords: [
     "Shan Sai",
