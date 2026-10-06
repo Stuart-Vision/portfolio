@@ -1,0 +1,22 @@
+.profile {
+  display: inline-flex;
+  flex-wrap: wrap;
+  max-width: 100%;
+  padding: 1.7rem 0 1rem 0;
+  gap: 0.5rem;
+
+  & > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    min-height: 44px;
+    &:hover,
+    &:focus {
+      filter: drop-shadow(0 0 1rem theme("colors.indigo.light")) brightness(1.1);
+      svg {
+        stroke: theme("colors.indigo.light");  
+      }
+    }
+  }
+}
